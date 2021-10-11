@@ -13,10 +13,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <array name="wallpapers" translatable="false">
-        <item>stellar1</item>
-        <item>stellar2</item>
-        <item>stellar3</item>
-        <item>stellar4</item>
-        <item>stellar5</item>
+        <item>stellar0</item>
     </array>
 </resources>
